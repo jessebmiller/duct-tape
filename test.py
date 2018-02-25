@@ -1,8 +1,8 @@
 """
-some application that is very important and is expected to iterate quickely.
+Some applications are very important and we are expected to iterate quickely.
 
-This will mean doing temporary code in order to learn things.
-We might like to be reminded that we did some temp code.
+This will mean writing temporary code in order to learn things.
+We might like to be reminded that we did that.
 
 """
 
